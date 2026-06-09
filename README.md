@@ -28,6 +28,11 @@ https://datastudio.google.com/reporting/49726fff-2419-457f-92e4-8e6d731085e3
 INEGI — Encuesta Nacional de Ocupación y Empleo (ENOE) Q4 2025
 419,038 records | 115 variables | National coverage
 
+## Methodology Notes
+- Income analysis excludes records with zero reported income (ingocup = 0)
+- Unemployment rate calculated over economically active population only (clase1 = 1)
+- Sector 0 (unclassified) excluded from sector analysis
+
 ## Author
 **Alejandro Ibarra del Castillo**
 Business Management Engineer | Data & Marketing Analyst
